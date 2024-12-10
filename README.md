@@ -1,2 +1,4 @@
-# DataBreakdown_PowerBI
-Visualizes insights from a survey of data professionals using Power BI, showcasing trends in job roles, salaries, programming language preferences, and work-life balance.
+# Data Professional Breakdown  
+A Power BI project that analyzes and visualizes survey data about data professionals.  
+
+![DataProfessionalSurveyBreakdown](https://github.com/user-attachments/assets/24dc40a0-b835-4e51-92bd-999047d3b9b0)
